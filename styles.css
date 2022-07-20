@@ -1,0 +1,21 @@
+body {
+    background-color: #6545a4;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+table {
+    border: 10px solid white;
+    margin: 20px;
+    background-color: #a862ea;
+    font-size: 1rem;
+    color: white;
+}
+
+th, td {
+    padding: 20px;
+}
+
+th {
+    background-color: #ceb5ff;
+}
